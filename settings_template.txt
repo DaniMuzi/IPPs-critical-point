@@ -1,0 +1,59 @@
+###############################################
+#                   MANDATORY                 #
+###############################################
+
+Steps = 
+Print_every = 
+Save_every = 
+
+Dynamics = 
+Ensemble = 
+Temperature = 
+
+Disp_max = 
+Theta_max = 
+
+L = 
+N0 = 
+
+ndays = 
+nhours = 
+nminutes = 
+
+Initial_conditions_file = 
+
+###############################################
+#               MANDATORY FOR GC              #
+###############################################
+
+Mu = 
+GC_N_max = 
+
+###############################################
+#                 NON MANDATORY               #
+###############################################
+
+Restart_step_counter = 
+Seed = 
+
+Log_file = 
+Energy_file = 
+Density_file = 
+Acceptance_file = 
+Configuration_folder = 
+Configuration_last = 
+
+###############################################
+#                PARTICLE SYSTEM              #
+###############################################
+
+n_patches = 
+delta_c = 
+sigma_c = 
+delta_p = 
+sigma_p = 
+a = 
+
+e_EE = 
+e_EP = 
+e_PP = 
