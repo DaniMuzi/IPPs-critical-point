@@ -7,4 +7,4 @@ The fundamental file of this repository is the notebook IPPs_critical_point.ipyn
 
 For any question, do no hesitate to contact me: daniele DOT notarmuzi AT tuwien DOT ac DOT at
 
-If you use this code, please cite (our paper)[https://arxiv.org/abs/2401.10655].
+If you use this code, please cite [our paper](https://arxiv.org/abs/2401.10655).
